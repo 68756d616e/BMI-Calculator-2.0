@@ -22,3 +22,5 @@ elif round(bmi_total) == 40:
   print(f"Your BMI is {round(bmi_total)}, you are clinically obese.")
 else:
   print("Meh, you have hard work ahead")
+  
+  
